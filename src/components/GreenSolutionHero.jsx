@@ -63,7 +63,7 @@ const GreenSolutionsHero = () => {
                 className="h-14 w-auto rounded-xl shadow-2xl shadow-accent-400/20 border-2 border-accent-400/30 hover:scale-110 hover:shadow-accent-400/40 transition-all duration-500 hover:border-accent-400/50"
               />
               <span className="text-lg font-semibold text-white">
-              WeCare for Climate Foundation
+              Climate Tech and Green Solutions
               </span>
             </div>
 

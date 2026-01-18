@@ -25,7 +25,7 @@ function Footer() {
               alt="WeCare for Climate Foundation Logo"
               className="h-12 w-auto rounded-lg shadow-lg"
             />
-            <h3 className="text-2xl font-bold text-white">WeCare for Climate Foundation</h3>
+            <h3 className="text-2xl font-bold text-white">Climate Tech and Green Solutions</h3>
           </div>
           <div className="space-y-2 text-navy-200">
             <p>House 81 road 19 sector 14 Uttara, Dhaka-1230</p>

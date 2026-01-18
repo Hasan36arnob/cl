@@ -25,7 +25,7 @@ function Team() {
                 Our <span className="bg-gradient-to-r from-accent-400 to-accent-500 bg-clip-text text-transparent">Work Environment</span>
               </h3>
               <p className="text-xl text-navy-200 max-w-3xl mx-auto">
-                Behind the scenes at WeCare for Climate Foundation - our team in action and celebrating achievements
+                Behind the scenes at Climate Tech and Green Solutions - our team in action and celebrating achievements
               </p>
             </div>
 
